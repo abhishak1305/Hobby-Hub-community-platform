@@ -1,4 +1,16 @@
 <?php
+$host = 'db';  // container name of MySQL service
+$db = 'hobbyhub_db';
+$user = 'user';
+$pass = 'password';
+
+$conn = new mysqli($host, $user, $pass, $db);
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+?>
+
+<?php
 // Strict error reporting for development
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
