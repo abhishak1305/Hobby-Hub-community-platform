@@ -1,0 +1,62 @@
+[16-Apr-2025 11:33:44 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\HobbyHub\public\forget_password.php:8) in C:\xampp\htdocs\HobbyHub\includes\functions.php on line 4
+[16-Apr-2025 11:33:48 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\HobbyHub\public\forget_password.php:8) in C:\xampp\htdocs\HobbyHub\includes\functions.php on line 4
+[16-Apr-2025 11:34:17 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\HobbyHub\public\forget_password.php:8) in C:\xampp\htdocs\HobbyHub\includes\functions.php on line 4
+[16-Apr-2025 11:39:44 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\HobbyHub\public\forget_password.php:8) in C:\xampp\htdocs\HobbyHub\includes\functions.php on line 12
+[16-Apr-2025 11:39:45 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\HobbyHub\public\reset_password.php:11) in C:\xampp\htdocs\HobbyHub\includes\functions.php on line 12
+[16-Apr-2025 11:40:01 Europe/Berlin] PHP Fatal error:  Cannot redeclare sanitizeInput() (previously declared in C:\xampp\htdocs\HobbyHub\public\forget_password.php:8) in C:\xampp\htdocs\HobbyHub\includes\functions.php on line 12
+[16-Apr-2025 11:44:43 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:45:23 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:45:35 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:46:23 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:49:36 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:49:45 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:50:06 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:51:47 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:56:33 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:57:51 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 11:57:55 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 12:03:36 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 12:13:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 9
+[16-Apr-2025 12:13:08 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 10
+[16-Apr-2025 12:13:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 11
+[16-Apr-2025 12:13:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 9
+[16-Apr-2025 12:13:10 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 10
+[16-Apr-2025 12:13:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 11
+[16-Apr-2025 12:13:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 9
+[16-Apr-2025 12:13:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 10
+[16-Apr-2025 12:13:11 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 11
+[16-Apr-2025 12:13:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 9
+[16-Apr-2025 12:13:16 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 10
+[16-Apr-2025 12:13:16 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\HobbyHub\includes\config.php on line 11
+[16-Apr-2025 12:23:01 Europe/Berlin] Checking database connection...
+[16-Apr-2025 12:23:01 Europe/Berlin] Database connection is active
+[16-Apr-2025 12:23:01 Europe/Berlin] Attempting to query users table for email: abhishak1305@gmail.com
+[16-Apr-2025 12:23:01 Europe/Berlin] Query executed. User found: Yes
+[16-Apr-2025 12:23:01 Europe/Berlin] Generated token: 06003e55104e920e9c4f3b387e9af3f137f3d1e23f6000899b6e37aad674b477, expires: 2025-04-16 13:23:01
+[16-Apr-2025 12:23:01 Europe/Berlin] Deleting existing tokens for user_id: 7
+[16-Apr-2025 12:23:01 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist in C:\xampp\htdocs\HobbyHub\public\forgot_password.php on line 99
+[16-Apr-2025 12:23:07 Europe/Berlin] Checking database connection...
+[16-Apr-2025 12:23:07 Europe/Berlin] Database connection is active
+[16-Apr-2025 12:23:07 Europe/Berlin] Attempting to query users table for email: abhishak1305@gmail.com
+[16-Apr-2025 12:23:07 Europe/Berlin] Query executed. User found: Yes
+[16-Apr-2025 12:23:07 Europe/Berlin] Generated token: b0d1ffb03d7788e0b347b3339b9a3530bbe98ab0363d9ab08c95414dfe618442, expires: 2025-04-16 13:23:07
+[16-Apr-2025 12:23:07 Europe/Berlin] Deleting existing tokens for user_id: 7
+[16-Apr-2025 12:23:07 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist in C:\xampp\htdocs\HobbyHub\public\forgot_password.php on line 99
+[16-Apr-2025 12:23:23 Europe/Berlin] Attempting to query users table for email: abhishak1305@gmail.com
+[16-Apr-2025 12:23:23 Europe/Berlin] Query executed. User found: Yes
+[16-Apr-2025 12:23:23 Europe/Berlin] Generated token: c9692786fd69e033bd634bac95874766a6550c514f268dbc8c2989901edaf06b, expires: 2025-04-16 13:23:23
+[16-Apr-2025 12:23:23 Europe/Berlin] Deleting existing tokens for user_id: 7
+[16-Apr-2025 12:23:23 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 12:23:35 Europe/Berlin] Attempting to query users table for email: abhishak1305@gmail.com
+[16-Apr-2025 12:23:35 Europe/Berlin] Query executed. User found: Yes
+[16-Apr-2025 12:23:35 Europe/Berlin] Generated token: 2a896c5e9aaa1676b3acfefb019253d21c68de8c1fabe79c31afce7c0f6e0cf2, expires: 2025-04-16 13:23:35
+[16-Apr-2025 12:23:35 Europe/Berlin] Deleting existing tokens for user_id: 7
+[16-Apr-2025 12:23:35 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 12:23:53 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_reset_tokens' doesn't exist
+[16-Apr-2025 15:30:08 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_resets' doesn't exist
+[16-Apr-2025 15:30:34 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_resets' doesn't exist
+[16-Apr-2025 15:30:37 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_resets' doesn't exist
+[16-Apr-2025 15:30:54 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_resets' doesn't exist
+[16-Apr-2025 15:34:37 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_resets' doesn't exist
+[16-Apr-2025 15:42:34 Europe/Berlin] Password reset error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_resets' doesn't exist
+[16-Apr-2025 16:02:35 Europe/Berlin] OTP resend error: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'hobby_platform.password_resets' doesn't exist
