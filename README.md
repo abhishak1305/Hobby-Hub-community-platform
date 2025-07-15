@@ -110,7 +110,9 @@ Use XAMPP/WAMP → Place files inside /htdocs → Start Apache/MySQL
 Visit: http://localhost/Hobby-Hub-community-platform/public/
 
 📸 Screenshots
-Login Page	Dashboard
+## 📸 Landing Page
+![Landing Page](hobbyhub/screenshorts/langing.png)
+
 
 
 🧠 Coming Soon
