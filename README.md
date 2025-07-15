@@ -12,6 +12,9 @@
 
 ---
 
+🌐 Live Demo
+Visit our live website: https://hobbyhub.ct.ws
+
 ## ✨ Features Overview
 
 🔐 **Authentication**  
