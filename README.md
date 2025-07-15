@@ -1,3 +1,8 @@
+<h3 align="center">🏠 Landing Page</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhishak1305/Hobby-Hub-community-platform/main/HobbyHub/screenshots/landing.png" alt="Landing Page" width="800" />
+</p>
+
 <h1 align="center">🎨 Hobby Hub – Community & Club Management Platform</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow.svg" />
