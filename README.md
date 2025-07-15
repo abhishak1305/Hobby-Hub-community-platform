@@ -112,8 +112,6 @@ Visit: http://localhost/Hobby-Hub-community-platform/public/
 📸 Screenshots
 Login Page	Dashboard
 
-![Landing Page](/screenshots/landing.png)
-
 
 🧠 Coming Soon
 ✅ Email OTP login 🔐
