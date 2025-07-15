@@ -11,8 +11,7 @@
 </p>
 
 ---
-## 🌍 Live Demo
-🔗 [Visit Hobby Hub Live](https://hobbyhub.ct.ws/)
+## 🌍 Live Demo: 🔗 [Visit Hobby Hub Live](https://hobbyhub.ct.ws/)
 
 <h3 align="center">🏠 Landing Page</h3>
 <p align="center">
