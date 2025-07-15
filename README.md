@@ -109,9 +109,10 @@ define('DB_PASS', 'your_password');
 Use XAMPP/WAMP → Place files inside /htdocs → Start Apache/MySQL
 Visit: http://localhost/Hobby-Hub-community-platform/public/
 
-📸 Screenshots
-## 📸 Landing Page
-![Landing Page](HobbyHub/screenshots/landing.png)
+
+### 🏠 Landing Page
+![Landing Page](https://raw.githubusercontent.com/abhishak1305/Hobby-Hub-community-platform/main/HobbyHub/screenshots/landing.png)
+
 
 
 
