@@ -111,7 +111,7 @@ Visit: http://localhost/Hobby-Hub-community-platform/public/
 
 📸 Screenshots
 ## 📸 Landing Page
-![Landing Page](hobbyhub/screenshorts/langing.png)
+![Landing Page](HobbyHub/screenshots/landing.png)
 
 
 
