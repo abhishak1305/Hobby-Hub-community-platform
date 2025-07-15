@@ -112,7 +112,7 @@ Visit: http://localhost/Hobby-Hub-community-platform/public/
 📸 Screenshots
 Login Page	Dashboard
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/318d3926-2c30-46de-82a6-e144b02e8b98" />
+![Landing Page](/screenshots/landing.png)
 
 
 🧠 Coming Soon
