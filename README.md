@@ -140,3 +140,9 @@ Only group admins can create/edit events in that group
 
 🧾 License
 This project is licensed under the MIT License.
+
+🌐 Author
+Made with ❤️ by Abhishak Chaturvedi
+📧 abhishak1305@gmail.com
+
+🚀 Give it a ⭐ if you like it! Let's build amazing communities together.
