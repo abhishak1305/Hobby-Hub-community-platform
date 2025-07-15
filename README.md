@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88096fd5-d3b2-4b66-8534-9c9af8bd6d06" /><h1 align="center">🎨 Hobby Hub – Community & Club Management Platform</h1>
+<h1 align="center">🎨 Hobby Hub – Community & Club Management Platform</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-In%20Progress-yellow.svg" />
   <img src="https://img.shields.io/github/license/abhishak1305/Hobby-Hub-community-platform" />
