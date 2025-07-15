@@ -111,10 +111,7 @@ Visit: http://localhost/Hobby-Hub-community-platform/public/
 
 
 ### 🏠 Landing Page
-![Landing Page](https://raw.githubusercontent.com/abhishak1305/Hobby-Hub-community-platform/main/HobbyHub/screenshots/landing.png)
-
-
-
+![Landing Page](HobbyHub/screenshots/landing.png)
 
 🧠 Coming Soon
 ✅ Email OTP login 🔐
