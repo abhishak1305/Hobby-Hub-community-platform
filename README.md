@@ -11,9 +11,9 @@
 </p>
 
 ---
+## 🌍 Live Demo
+🔗 [Visit Hobby Hub Live](https://hobbyhub.ct.ws/)
 
-🌐 Live Demo
-Visit our live website: https://hobbyhub.ct.ws
 
 ## ✨ Features Overview
 
