@@ -58,33 +58,30 @@
 
 ---
 
-## 📂 Folder Structure
 
-📁 hobby_platform/
-│
-├── 📁 includes/ # Core config and reusable components
-│ ├── config.php # Database credentials
-│ ├── functions.php # Utility functions
-│ ├── header.php # Page header
-│ └── footer.php # Page footer
-│
-├── 📁 public/ # All user-facing pages
-│ ├── index.php
-│ ├── register.php
-│ ├── login.php
-│ ├── logout.php
-│ ├── dashboard.php
-│ ├── groups.php
-│ ├── group_detail.php
-│ ├── discussion.php
-│ ├── events.php
-│ ├── event_detail.php
-│ └── members.php
-│
-└── 📄 schema.sql # MySQL database schema
+## Directory Structure
 
-
----
+```
+hobby_platform/
+├── includes/
+│   ├── config.php       # Database and application configuration
+│   ├── functions.php    # Helper functions
+│   ├── header.php       # Common header template
+│   └── footer.php       # Common footer template
+├── public/
+│   ├── index.php        # Landing page
+│   ├── register.php     # User registration
+│   ├── login.php        # User login
+│   ├── logout.php       # User logout
+│   ├── dashboard.php    # User dashboard
+│   ├── groups.php       # Group listing and creation
+│   ├── group_detail.php # Individual group view
+│   ├── discussion.php   # Discussion board
+│   ├── events.php       # Event listing and creation
+│   ├── event_detail.php # Individual event view
+│   └── members.php      # Member directory
+└── schema.sql          # Database schema
+```
 
 ## ⚙️ Setup Guide
 
